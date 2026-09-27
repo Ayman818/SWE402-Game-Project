@@ -7,7 +7,7 @@
 **Team members:**
 
 - Ayman Al Johani - 202016260
-- Mohammed Alajmi
+- Mohammed Alajmi - 202065020
 
 ## 1. Scene summary and player journey
 
